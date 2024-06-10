@@ -38,7 +38,10 @@ Fetch City/State/Country Wise Weather Detail: Users can search for weather detai
 
 ##ScreenShots :-
 
+<img src= "https://github.com/KRISHA-SALIYA/Sky-Scrapper-/assets/149802459/0a24e3b4-a90c-4356-8d52-e10bbb5699fa" width="200px">
 
+<img src= "https://github.com/KRISHA-SALIYA/Sky-Scrapper-/assets/149802459/897ce845-3a80-4dad-9e93-61b3d225dcef" width="200px">
 
+<img src= "https://github.com/KRISHA-SALIYA/Sky-Scrapper-/assets/149802459/ac946d40-1272-4b82-8e57-cb226bfb5c9a" width="200px">
 
-
+<img src= "https://github.com/KRISHA-SALIYA/Sky-Scrapper-/assets/149802459/19c41d16-aa45-48d4-823e-424a35b070a0" width="200px">

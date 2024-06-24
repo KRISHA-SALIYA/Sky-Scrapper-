@@ -1,16 +1,47 @@
-# sky_scrapper
+# Sky-Scrapper-
 
-A new Flutter project.
+Project Description: -"Sky Scrapper" is a feature-rich weather application built using Flutter, incorporating key concepts such as API calling, Shared Preferences, and network connectivity. The app offers a comprehensive set of functionalities designed to provide users with accurate and timely weather information for cities, states, and countries. -"Sky Scrapper" aims to be a reliable and user-friendly weather application, empowering users with accurate and timely weather information. By incorporating API calling, Shared Preferences, network connectivity checks, city/state/country-wise weather details, saved location functionality, light and dark themes, splash screen, and detailed weather screens, the app provides a comprehensive solution for users to stay informed about weather conditions in their desired locations.
 
-## Getting Started
+Project Objectives: API Calling: The app utilizes API calls to fetch weather data from reliable weather data providers. This ensures that users receive accurate and up-to-date weather information for their desired locations.
 
-This project is a starting point for a Flutter application.
+Fetch City/State/Country Wise Weather Detail: Users can search for weather details by entering the name of a city, state, or country. The app retrieves the relevant weather information and displays it in an organized and user-friendly manner, including temperature, humidity, wind speed, and other relevant meteorological
 
-A few resources to get you started if this is your first Flutter project:
+ Light & Dark Themes: "Sky Scrapper" offers a visually pleasing experience with customizable themes. Users can switch between light and dark themes based on their preferences, ensuring comfortable usage in different lighting conditions and personalizing their weather app experience
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+=>  Project Requirements:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+= Knowledge of programming languages such as Dart and JavaScript.
+= Familiarity with the Flutter framework, API Calling, and JSON parsing.
+= Understanding of user interface design principles and best practices.
+= Experience with mobile app development and related tools like Android Studio or VS Code.
+= Ability to work independently.
+
+=> Project Deliverables:
+
+ = A functional Weather application developed using Flutter.
+
+ = Source code and documentation for the application.
+
+ = User manual and installation instructions.
+
+ = Project report detailing the development process, challenges faced, and solutions implemented.
+
+ = Presentation and demonstration of the application to a panel of reviewers.
+
+ = Project Evaluation:
+
+ = User satisfaction with the application’s functionality and UI/UX
+
+ = Quality of code and project structure
+
+= Presentation quality and clarity of communication
+
+##ScreenShots :-
+
+<img src= "https://github.com/KRISHA-SALIYA/Sky-Scrapper-/assets/149802459/0a24e3b4-a90c-4356-8d52-e10bbb5699fa" width="200px">
+
+<img src= "https://github.com/KRISHA-SALIYA/Sky-Scrapper-/assets/149802459/897ce845-3a80-4dad-9e93-61b3d225dcef" width="200px">
+
+<img src= "https://github.com/KRISHA-SALIYA/Sky-Scrapper-/assets/149802459/ac946d40-1272-4b82-8e57-cb226bfb5c9a" width="200px">
+
+<img src= "https://github.com/KRISHA-SALIYA/Sky-Scrapper-/assets/149802459/19c41d16-aa45-48d4-823e-424a35b070a0" width="200px">
